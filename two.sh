@@ -1,7 +1,7 @@
 #!/bin/bash
 
 a=2
-b=7
+b=1
 if [$a -ge $b]
 then 
 	echo "The variable 'a'is greater than the variable 'b'"
