@@ -7,3 +7,8 @@ sudo apt-get install -y mongodb-org
 mongod --version
 sudo systemctl start mongod
 sudo systemnctl status mongod
+
+
+
+
+# https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/ -------- script created by following this website commands
