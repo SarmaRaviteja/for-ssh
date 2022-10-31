@@ -6,7 +6,7 @@ sudo apt-get update
 sudo apt-get install -y mongodb-org
 mongod --version
 sudo systemctl start mongod
-sudo systemnctl status mongod
+sudo systemctl status mongod
 
 
 
